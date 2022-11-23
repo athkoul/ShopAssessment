@@ -4,12 +4,13 @@ Environment used:
 PHP Version 7.4.11
 MySQL Version: 8.0.29
 Xampp WebServer with Apache
+
 **---Setup Steps**
 
 1)Firstly clone the git repo to the relevant folder you will use the server.
 For example Xampp uses htdocs as root folder for server
 
-2)Import the dump files to create the databases
+2)Import the dump file to create the databases
 
 3)Change inside defines.php file the relevant information for database connectivity.
 
