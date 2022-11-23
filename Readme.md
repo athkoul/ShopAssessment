@@ -68,7 +68,9 @@ Each of the above APIs have an example as comment on top of the code of a json t
 **---Internal APIs**
 
 1)Token Generator API
+
 An API that is used internally from the project to generate and write the token information to the database
 
 2)Token Validation API
+
 An API that is used internally from the project to validate if the token is correct and still active.
