@@ -10,7 +10,7 @@ Xampp WebServer with Apache
 1)Firstly clone the git repo to the relevant folder you will use the server.
 For example Xampp uses htdocs as root folder for server
 
-2)Import the dump file to create the databases
+2)Import the dump file shops.sql to create the databases
 
 3)Change inside defines.php file the relevant information for database connectivity.
 
